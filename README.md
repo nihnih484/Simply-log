@@ -21,3 +21,9 @@ If you do not see any repository to select for cloning,then you haven't been add
 
 You need to give me your E-mail address and username for github
 
+
+# Branches
+
+If you want to work in private before making any final changes to the **Master Branch**
+
+then simply make a **Branch**,after you are sure it is pretty much final make a **pull request**,then we can **merge** it to the **Master Branch**
